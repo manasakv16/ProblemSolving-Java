@@ -9,6 +9,7 @@ public class Main {
         findOccurence(arr,100);
     }
 
+    // To find first and last occurence of an element and print it's count.
     public static void findOccurence(int[] arr, int num){
         System.out.println(Arrays.toString(arr));
 

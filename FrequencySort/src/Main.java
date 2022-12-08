@@ -32,10 +32,12 @@ class Pair implements Comparable<Pair>{
     }
 
     public int compareTo(Pair o) {
-        // ...
-        //System.out.println("comparing Pair num1 = "+num1+ " num2= "+num2+ " and o.num1 = "+o.num1+" o.num2 = "+o.num2);
-        //System.out.println("returning "+(num1-o.num1));
-        return num1-o.num1;
+        if(num1!=o.num1)
+            return num1-o.num1;
+        else
+        if(num2>o.num2) // if count is same, display numbers in descending order. if 3 & 2 are repeating twice => 3,3,2,2
+            return -1;
+        else return 1;
     }
 }
 
@@ -53,7 +55,7 @@ public class Main {
         return count;
     }
     public static void frequencySort(HashMap count){
-        PriorityQueue<Pair> minh = new PriorityQueue(Collections.reverseOrder());
+        PriorityQueue<Pair> minh = new PriorityQueue();
         List<Integer> set = count.keySet().stream().toList();
         for(int i=0;i<count.size();i++){
             int temp = (int) count.get(set.get(i));
@@ -69,9 +71,8 @@ public class Main {
             }minh.poll();
         }
     }
-
     public static void main(String[] args) {
-        int[] arr = {1,2,2,3,3,3,4,4,4,4,0,0,0,0,0};
+        int[] arr = {1,2,2,3,3,3,4,4,4,4,0,0,0,0,0,5};
         frequencySort(checkCount(arr));
     }
 }

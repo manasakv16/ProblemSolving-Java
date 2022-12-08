@@ -66,6 +66,7 @@ public class Main {
         int n = minh.size();
         for (int i=0;i<n;i++)
             System.out.println("The number "+minh.peek().getNum2()+" is repeated "+minh.poll().getNum1()+" times");
+        //System.out.println(minh.poll().getNum2());
     }
 
     public static void main(String[] args) {
