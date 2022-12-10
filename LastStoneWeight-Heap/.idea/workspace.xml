@@ -2,17 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bdf30266-0835-4a94-9304-260150d93651" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LastStoneWeight-Heap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/LastStoneWeight-Heap/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kWeakestRowsInAMatrix-Heap/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kWeakestRowsInAMatrix-Heap/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kWeakestRowsInAMatrix-Heap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kWeakestRowsInAMatrix-Heap/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../kWeakestRowsInAMatrix-Heap/kWeakestRowsInAMatrix-Heap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/MeetingRoomsII-Heap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/out/production/MeetingRoomsII-Heap/Interval.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />

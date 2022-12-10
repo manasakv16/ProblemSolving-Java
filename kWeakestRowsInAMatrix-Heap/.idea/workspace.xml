@@ -2,17 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f13dc12d-fbcb-4092-b3f1-7cdcca18e892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../LastStoneWeight-Heap/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LastStoneWeight-Heap/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LastStoneWeight-Heap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LastStoneWeight-Heap/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LastStoneWeight-Heap/LastStoneWeight-Heap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LastStoneWeight-Heap/out/production/LastStoneWeight-Heap/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/kWeakestRowsInAMatrix-Heap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/MeetingRoomsII-Heap.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/out/production/MeetingRoomsII-Heap/Interval.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LastStoneWeight-Heap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LastStoneWeight-Heap/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
