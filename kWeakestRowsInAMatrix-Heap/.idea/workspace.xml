@@ -2,14 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f13dc12d-fbcb-4092-b3f1-7cdcca18e892" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/MeetingRoomsII-Heap.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/out/production/MeetingRoomsII-Heap/Interval.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../MeetingRoomsII-Heap/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../LastStoneWeight-Heap/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LastStoneWeight-Heap/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kSmallestElementsInAMatrix/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kSmallestElementsInAMatrix/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kSmallestElementsInAMatrix/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kSmallestElementsInAMatrix/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kSmallestElementsInAMatrix/kSmallestElementsInAMatrix.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../kSmallestElementsInAMatrix/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
