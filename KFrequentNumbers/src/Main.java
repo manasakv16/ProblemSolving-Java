@@ -57,6 +57,7 @@ public class Main {
     public static void displayTopFrequentElements(HashMap count, int[] arr,int k){
         PriorityQueue<Pair> minh = new PriorityQueue();
         List<Integer> set = count.keySet().stream().toList();
+
         for(int i=0;i<count.size();i++){
             int temp = (int) count.get(set.get(i));
             minh.add(new Pair(temp, set.get(i)));
@@ -68,7 +69,6 @@ public class Main {
             System.out.println("The number "+minh.peek().getNum2()+" is repeated "+minh.poll().getNum1()+" times");
         //System.out.println(minh.poll().getNum2());
     }
-
     public static void main(String[] args) {
         int[] arr = {1,2,2,3,3,3,4,4,4,4};
         int k = 4;
