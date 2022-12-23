@@ -3,6 +3,15 @@ package com.company;
 import java.security.Key;
 import java.util.*;
 
+class Pair{
+    int num1;
+    int num2;
+    public Pair(int num1,int num2){
+        this.num1=num1;
+        this.num2=num2;
+    }
+}
+
 public class Main {
     //Brute force approach
     public static void maxAreaHistogramBFA(int[] arr){
@@ -31,7 +40,6 @@ public class Main {
         System.out.println("result = "+max);
 
     }
-
     public static int getIndex(int[] arr,int num){
        // System.out.println("finding index of "+num);
         if(num==0) return num;
@@ -44,18 +52,15 @@ public class Main {
         }
         return -1;
     }
-
     public static void maxAreaHistogram(int[] arr){
         System.out.println("Input = "+Arrays.toString(arr));
         PriorityQueue<Integer> minh = new PriorityQueue<>();
-        List<Integer> list = nearestSmallerToLeft(arr);
+        List<Pair> list = nearestSmallerToLeft(arr);
         Stack<Integer> stack = nearestSmallerToRight(arr);
 
         for (int i=0;i<arr.length;i++){
             int sum=0,j=0,k=0;
-
-            if (list.get(i)==-1) j=0;
-            else j = getIndex(arr, list.get(i));
+            j = list.get(i).num2;
 
             if(stack.peek()== -1) {
                 k = arr.length; stack.pop();
@@ -80,7 +85,6 @@ public class Main {
         System.out.println();
         System.out.println("ouput = "+minh.peek());
     }
-
     public static Stack<Integer> nearestSmallerToRight(int[] arr){
         Stack<Integer> stalk = new Stack();
         Stack res = new Stack<>();
@@ -107,27 +111,32 @@ public class Main {
         System.out.println(" smaller to right,reverse order "+res);
         return res;
     }
+    public static List<Pair> nearestSmallerToLeft(int[] arr){
+        Stack<Pair> stalk = new Stack(); //Pair<int,int> = <arr[i],i>
+        List<Pair> res = new ArrayList<>();
 
-    public static List<Integer> nearestSmallerToLeft(int[] arr){
-        Stack<Integer> stalk = new Stack();
-        ArrayList<Integer> res = new ArrayList<>();
+        System.out.println("Input = "+Arrays.toString(arr));
 
-        for (int i=0;i<arr.length;i++){
-            if(stalk.empty())
-                res.add(-1);
-            else{
-                if(stalk.peek()<arr[i])
-                    res.add(stalk.peek());
-                else{
-                    while (!stalk.empty() && stalk.peek()>=arr[i])
-                        stalk.pop();
-                    if(stalk.empty())
-                        res.add(-1);
-                    else res.add(stalk.peek());
+        for(int i= arr.length-1;i>=0;i--) {
+            if (stalk.empty())
+                res.add(new Pair(arr[i],1));
+            else {
+                if(stalk.peek().num1>arr[i]) {
+                    res.add(new Pair(arr[i],1));
                 }
-            } stalk.push(arr[i]);
+                else{
+                    while (!stalk.empty() &&(stalk.peek().num1<=arr[i])) {
+                        stalk.pop();
+                    }
+                    if(!stalk.empty()) {
+                        //System.out.println(arr[i] + " " + i + " " + index(arr, stalk.peek()));
+                        res.add(new Pair(arr[i],Math.abs(i - stalk.peek().num2)));
+                    }
+                    else res.add(new Pair(arr[i],1));
+                }
+            } stalk.push(new Pair(arr[i],i));
+            System.out.println("nearest smallest to left of "+arr[i]+" is "+res.get(i).num2+" indices away");
         }
-        System.out.println(" smaller to left "+res);
         return res;
     }
 

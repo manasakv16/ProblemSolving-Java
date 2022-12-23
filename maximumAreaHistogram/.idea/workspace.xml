@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="308401e7-dbb7-4e7b-bdf0-30043bdd2d7e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../NearestSmallerToLeft/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../NearestSmallestToRight/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../StockSpan/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maximumAreaHistogram.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KFrequentNumbers/out/production/KFrequentNumbers/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../KFrequentNumbers/out/production/KFrequentNumbers/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../KFrequentNumbers/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../KFrequentNumbers/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/maximumAreaHistogram/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/maximumAreaHistogram/com/company/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -69,7 +63,7 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>82</line>
+          <line>88</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
       </breakpoints>
