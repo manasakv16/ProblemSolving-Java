@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0283477-8f79-422e-961a-851dc1c42b62" name="Changes" comment="">
+    <list default="true" id="d1758264-4f40-4687-974b-236855d5e12e" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/../findInInfiniteSortedArray/.idea/misc.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../findInInfiniteSortedArray/.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../findInInfiniteSortedArray/.idea/vcs.xml" afterDir="false" />
@@ -13,16 +13,16 @@
       <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/.idea/vcs.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/.idea/workspace.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/minimumDifferenceInASortedArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/nextLetter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/out/production/nextLetter/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/ceilOfAnElementInSortedArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/ceilOfAnElementInSortedArray/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/nextLetter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/nextLetter/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/out/production/ceilOfAnElementInSortedArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/out/production/ceilOfAnElementInSortedArray/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../nearlySortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nearlySortedArray/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -37,30 +37,26 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2JJ2Emq4YL4BGhAjggNqPYzj8j0" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="2" id="Add" />
-  </component>
+  <component name="ProjectId" id="2JJI56xglhYxfJcjeqbAsvSzw0d" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "RunOnceActivity.ShowReadmeOnStart": "true"
   }
 }]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="f0283477-8f79-422e-961a-851dc1c42b62" name="Changes" comment="" />
-      <created>1671781757399</created>
+      <changelist id="d1758264-4f40-4687-974b-236855d5e12e" name="Changes" comment="" />
+      <created>1671789574298</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1671781757399</updated>
+      <updated>1671789574298</updated>
     </task>
     <servers />
   </component>
@@ -74,18 +70,5 @@
         </entry>
       </map>
     </option>
-  </component>
-  <component name="VcsManagerConfiguration">
-    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <breakpoint enabled="true" type="java-exception">
-          <properties class="java.lang.NumberFormatException" package="java.lang" />
-          <option name="timeStamp" value="1" />
-        </breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

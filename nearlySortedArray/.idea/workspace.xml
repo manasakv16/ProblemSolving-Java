@@ -2,25 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="72f889ae-5c4a-4124-bd83-a1363541b8a8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/ceilOfAnElementInSortedArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/floorOfAnElementInSortedArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/out/production/floorOfAnElementInSortedArray/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nearlySortedArray.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maximumAreaHistogram/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../maximumAreaHistogram/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maximumAreaHistogram/out/production/maximumAreaHistogram/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../maximumAreaHistogram/out/production/maximumAreaHistogram/com/company/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../maximumAreaHistogram/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../maximumAreaHistogram/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../findInInfiniteSortedArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../findInInfiniteSortedArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../findInInfiniteSortedArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../findInInfiniteSortedArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../findInInfiniteSortedArray/findInInfiniteSortedArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../findInInfiniteSortedArray/out/production/findInInfiniteSortedArray/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/minimumDifferenceInASortedArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextLetter/nextLetter.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextLetter/out/production/nextLetter/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../nextLetter/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/out/production/ceilOfAnElementInSortedArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/out/production/ceilOfAnElementInSortedArray/Main.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/src/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
