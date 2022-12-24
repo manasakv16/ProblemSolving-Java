@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5f889378-7f5c-4a58-ad16-e709444b4dd9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../PeakElementInABitonicArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PeakElementInABitonicArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PeakElementInABitonicArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PeakElementInABitonicArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PeakElementInABitonicArray/PeakElementInABitonicArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PeakElementInABitonicArray/out/production/PeakElementInABitonicArray/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/findElementInABitonicArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstOneInBinarySortedArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstOneInBinarySortedArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstOneInBinarySortedArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstOneInBinarySortedArray/firstOneInBinarySortedArray.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../peakElement/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../peakElement/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../peakElement/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../peakElement/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../peakElement/out/production/peakElement/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../peakElement/peakElement.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../findInInfiniteSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../findInInfiniteSortedArray/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2JLqZaUT6Ru4vlfFoDUUGCfs5Nb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5f889378-7f5c-4a58-ad16-e709444b4dd9" name="Changes" comment="" />
+      <created>1671867768561</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1671867768561</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

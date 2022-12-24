@@ -2,29 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9ff81627-356b-4588-9949-3d2e96a0b5bf" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/findInInfiniteSortedArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/out/production/findInInfiniteSortedArray/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../minimumDifferenceInASortedArray/minimumDifferenceInASortedArray.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/nextLetter.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/out/production/nextLetter/Main.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../nextLetter/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/out/production/ceilOfAnElementInSortedArray/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/out/production/ceilOfAnElementInSortedArray/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../ceilOfAnElementInSortedArray/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../floorOfAnElementInSortedArray/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../nearlySortedArray/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../nearlySortedArray/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstOneInBinarySortedArray/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstOneInBinarySortedArray/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstOneInBinarySortedArray/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../firstOneInBinarySortedArray/firstOneInBinarySortedArray.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,13 +25,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
